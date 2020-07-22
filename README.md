@@ -2,9 +2,9 @@
 GIMP script-fu utilities
 
 ## How to use
-+ copy the scripts in your personal script folder.
+1. copy the scripts in your personal script folder.
     | OS      | Script Folder |
     | ------- | --- |
     | Windows | `%AppData%/GIMP/2.10/scripts` |
     | Linux   | `~/.config/GIMP/2.10/scripts` |
-+ on GIMP, select `Filters` / `Script-Fu` / `Refresh Scripts`
+1. on GIMP, select `Filters` / `Script-Fu` / `Refresh Scripts`
